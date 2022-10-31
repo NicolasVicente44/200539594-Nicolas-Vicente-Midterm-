@@ -1,0 +1,78 @@
+@import url('./layout.css');
+
+#header-option-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#main-option-2 {
+    margin-right: 270px;
+
+}
+
+#main-fig {
+    padding-top: 35px;
+    padding-left: 35px;
+    float: left;
+    padding-right: 15px;
+}
+
+#lorem {
+    line-height: 1.4em;
+    padding-top: 22px;
+    padding-left: 15px;
+    width: 135%;
+    font-size: 1.1em;
+}
+
+#aside-option-1 {
+    display: flex;
+    border: 1px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 10px;
+    width: 100%;
+    padding-left: 15px;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    align-content: flex-start;
+    padding-top: 10px;
+    padding-bottom: 45px;
+
+
+}
+
+#boo-img {
+    height: 300px;
+    width: 270px;
+}
+
+#boo-caption {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    background-color: #333333;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+
+}
+
+#footer-option-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../images/scott-webb-UjupleczBOY-unsplash.jpg");
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+}
+
+#shaun-text {
+    color: #23395d;
+    font-size: 30px;
+
+}
